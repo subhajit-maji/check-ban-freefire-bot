@@ -1,5 +1,10 @@
 # 🔍 CheckBan Free Fire Discord Bot
 
+[![Stars](https://img.shields.io/github/stars/subhajit-maji/check-ban-freefire-bot?style=flat-square)](https://github.com/subhajit-maji/check-ban-freefire-bot/stargazers)
+[![Forks](https://img.shields.io/github/forks/subhajit-maji/check-ban-freefire-bot?style=flat-square)](https://github.com/subhajit-maji/check-ban-freefire-bot/network/members)
+[![Issues](https://img.shields.io/github/issues/subhajit-maji/check-ban-freefire-bot?style=flat-square)](https://github.com/subhajit-maji/check-ban-freefire-bot/issues)
+[![License](https://img.shields.io/github/license/subhajit-maji/check-ban-freefire-bot?style=flat-square)](https://github.com/subhajit-maji/check-ban-freefire-bot/blob/main/LICENSE)
+
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 A bot to check if a Free Fire account is banned, using a user ID. Also includes a Flask-based status server.
